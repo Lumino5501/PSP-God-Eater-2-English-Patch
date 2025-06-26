@@ -1,0 +1,3 @@
+06-26-2025
+-Reverted translations on Aragami names and body parts
+-Reverted PATCH-LUMI name on DLC folder
