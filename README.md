@@ -32,3 +32,12 @@ after that wait for it to be finished.
 be informed that the game wouldn't work if the DLC and the iso patches don't match so you have to move the new DLC to /PSP/GAME/.
 
 Some parts can only be translated using HEX Editor like the texts in the terminal "Deposit Items" "Withdraw Items"
+
+### Termux setup on android
+
+```pkg update &&
+pkg upgrade
+pkg install python
+pkg install libjpeg-turbo
+pip install pillow
+pip install pypng```
